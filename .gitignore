@@ -2,3 +2,4 @@ node_modules/
 **/**/*.*.js
 **/**/*.*.js.map
 app/npm-debug.log
+!systemjs.config.js
